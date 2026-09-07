@@ -17,4 +17,5 @@ Wir möchten gemeinsam ein kleines Projekt entwickeln.
  
 ## Unsere Idee 
  
- Coole Ideee 1 
+ Coole Ideee 1
+ Aber Ganz Cool und gelassen
